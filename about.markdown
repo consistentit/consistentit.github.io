@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We are a team of young enthusiastic Professionals with expertise spread across different domains and technologies. Our expertise lies in providing cost effective solutions using open source technologies there by increasing your ROI for your enterprises.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Be it anything from latest trending Microservice design & development, modernizing your legacy applications, Automation solutions.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Some of the key areas of expertise include providing API Development, API Security, CICD, ESB, Middle-ware solutions. On time delivery and best practices happens to be our key strengths.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Meet us to know us.
