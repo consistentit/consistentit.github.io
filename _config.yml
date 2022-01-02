@@ -23,7 +23,7 @@ email: consistentitsolutions@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   One stop shop for all your IT Solution needs from building APIs to building platform. We provide tailor made solutions at affordable rates.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.consistentitsolutions.com"
+url: "https://www.consistentit.com"
 twitter_username: jekyllrb
 github_username:  jekyll
 
